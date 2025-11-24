@@ -1,7 +1,7 @@
 {
   "name": "api-wrapper",
   "version": "1.0.0",
-  "description": "A reusable API wrapper for [INSERT API NAME]",
+  "description": "A reusable API wrapper you can adapt for any REST API",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
