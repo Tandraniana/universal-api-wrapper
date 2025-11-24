@@ -209,4 +209,4 @@ npm run test
 MIT License - see LICENSE file for details.
 ```
 
-**Note:** Replace `[INSERT API NAME]` with the actual API name throughout the README file.
+**Note:** Replace `[INSERT API NAME]` with the actual API name.
