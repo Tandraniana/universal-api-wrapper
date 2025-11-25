@@ -1,12 +1,16 @@
 class APIClient {
   constructor(config = {}) {
     this.apiKey = config.apiKey || process.env.API_KEY;
-    this.baseURL = config.baseURL || 'https://api.example.com/v1';
+    this.baseURL = config.baseURL || '';
     this.cache = new Map();
-    this.cacheTTL = config.cacheTTL || 300000; // 5 minutes default
+    this.cacheTTL = config.cacheTTL || 300000;
     
     if (!this.apiKey) {
       throw new Error('API key is required. Provide via config or API_KEY environment variable.');
+    }
+    
+    if (!this.baseURL) {
+      throw new Error('Base URL is required. Provide via config.baseURL');
     }
   }
 
@@ -14,7 +18,6 @@ class APIClient {
     const url = `${this.baseURL}${endpoint}`;
     const cacheKey = options.method === 'GET' ? url : null;
 
-    // Check cache for GET requests
     if (cacheKey && this.cache.has(cacheKey)) {
       const cached = this.cache.get(cacheKey);
       if (Date.now() - cached.timestamp < this.cacheTTL) {
@@ -46,7 +49,6 @@ class APIClient {
 
       const data = await response.json();
 
-      // Cache successful GET responses
       if (cacheKey) {
         this.cache.set(cacheKey, {
           data,
