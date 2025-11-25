@@ -6,7 +6,7 @@ A production-ready, dependency-free JavaScript API client for seamless REST API 
 ## 🚀 Features
 
 - **Universal Compatibility** - Works in Node.js 18+ and all modern browsers
-- *Zero Dependencies* - Uses native fetch API, no bloat
+- **Zero Dependencies** - Uses native fetch API, no bloat
 - **Smart Caching** - Configurable request caching with TTL support
 - **Comprehensive Error Handling** - Meaningful error messages and recovery
 - **Input Validation** - Parameter validation before requests
